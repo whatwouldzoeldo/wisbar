@@ -1,0 +1,13 @@
+PREFIX p: <http://wisatajawabarat.com>
+PREFIX d: <http://wisatajawabarat.com/ns/data#>
+
+SELECT ?namaWisata ?jenisWisata ?alamat ?fasilitas ?telpon
+WHERE
+{ 
+    ?s  d:namaWisata ?namaWisata ;
+        d:jenisWisata ?jenisWisata;
+        d:alamatWisata ?alamat;
+        d:fasilitasWisata ?fasilitas;
+        d:telponWisata ?telpon;
+
+}

@@ -1,0 +1,314 @@
+@prefix p: <http://wisatajawabarat.com>
+@prefix d: <http://wisatajawabarat.com/ns/data#>
+
+
+
+p:P01        d:namaWisata	            "Curug Sadim" ;
+             d:jenisWisata       	    "Air terjun dan Wisata Alam" ;
+             d:alamatWisata             "Jalan Raya Ciater Subang" ;
+             d:fasilitasWisata          "Pemandian,Area Parkir,Toilet,Mushola,Gazebo,Spot Foto,Warung Makan";
+             d:telponWisata             "-".
+
+p:P02        d:namaWisata	            "Kawah Gunung Tangkuban Perahu" ;
+             d:jenisWisata       	    "Wisata Alam" ;
+             d:alamatWisata             "Jl Raya Tangkuban Perahu, Cikahuripan, Lembang, Bandung, Jawa Barat" ;
+             d:fasilitasWisata          "Camp, kawah, kuliner, Melihat pemandangan, berfoto, berselfie, merebus telur ";
+             d:telponWisata             "0821 2005 20011".
+             
+
+p:P03         d:namaWisata	            "Pemandian Air Panas Ciater" ;
+             d:jenisWisata       	    "Pemandian air panas" ;
+             d:alamatWisata             "Jl. Raya Ciater, Nagrak, Kec. Ciater, Kabupaten Subang, Jawa Barat 40154" ;
+             d:fasilitasWisata          "Penginapan , spa, rendam, ";
+             d:telponWisata             "(0260) 471700".
+             
+
+p:P04         d:namaWisata	            "Capolaga Adventure Camp" ;
+             d:jenisWisata       	    "Camping dan wisata alam air terjun" ;
+             d:alamatWisata             "Kampung Panaruban Desa, Jl. Raya Cicadas, Cicadas, Sagalaherang, Kabupaten Subang, Jawa Barat 41282" ;
+             d:fasilitasWisata          "Penginapan , pantai untuk camping, air terjun , mushola ";
+             d:telponWisata             "0815-7165-232".
+
+p:P05        d:namaWisata	            "Curug Agung atau Batu Kapur" ;
+             d:jenisWisata       	    "Pemandian dan air terjun" ;
+             d:alamatWisata             "Desa Batu Kapur, Kelurahan Curug Agung, Kab Subang, Jawa, Tebet Bar., Sagalaherang, Kabupaten Subang, Jawa Barat 41282" ;
+             d:fasilitasWisata          "pemandian , air terjun, camping, mushola, wc warung ";
+             d:telponWisata             "0815-8836-663".
+
+p:P06        d:namaWisata	            "Desa Wisata Sari Bunihayu" ;
+             d:jenisWisata       	    "Penginapan" ;
+             d:alamatWisata             "Jalancagak, Kec. Jalancagak, Kabupaten Subang, Jawa Barat 41281" ;
+             d:fasilitasWisata          "Alam kolam renang, galeri wisata, villa vila ";
+             d:telponWisata             "(0260) 470580".
+
+p:P07        d:namaWisata	            "Kolam Renang Ciheuleut" ;
+             d:jenisWisata       	    "Wisata Rekreasi" ;
+             d:alamatWisata             "Jalan Emo Kurniaatmaja, Pasirkareumbi, Kec. Subang, Kabupaten Subang, Jawa Barat 41211" ;
+             d:fasilitasWisata          "Kolam renang ";
+             d:telponWisata             "0812-2020-4133".
+
+p:P08         d:namaWisata	            "Curug Cileat Subang" ;
+             d:jenisWisata       	    "Air terjun dan Wisata Alam" ;
+             d:alamatWisata             "Cibogo, Cupunagara, Gardusayang, Cisalak, Kabupaten Subang, Jawa Barat 41283" ;
+             d:fasilitasWisata          "Penginapan camping ";
+             d:telponWisata             "-".
+
+p:P09        d:namaWisata	            "Wisata Buaya Blanakan" ;
+             d:jenisWisata       	    "Penangkaran buaya" ;
+             d:alamatWisata             "Blanakan, Kabupaten Subang, Jawa Barat 41259" ;
+             d:fasilitasWisata          "Area Parkir,Toilet,Mushola,Gazebo,Spot Foto,Warung Makan";
+             d:telponWisata             "-".
+
+p:P10       d:namaWisata	            "Curug Mandala" ;
+             d:jenisWisata       	    "Wisata Alam" ;
+             d:alamatWisata             "Cicadas, Sagalaherang, Kabupaten Subang, Jawa Barat 41281" ;
+             d:fasilitasWisata          "Area Parkir,Toilet,Mushola,Gazebo ,Spot Foto,Warung Makan";
+             d:telponWisata             "-".
+
+p:P11        d:namaWisata	            "Pantai Kalapa Patimban" ;
+             d:jenisWisata       	    "Pantai" ;
+             d:alamatWisata             "Dusun Patimban, Patimban, Pusakanagara, Patimban, Kec. Pusakanagara, Kabupaten Subang, Jawa Barat 41255" ;
+             d:fasilitasWisata          "Area Parkir,Toilet,Mushola,Gazebo,Wahana permainan ,Spot Foto,Warung Makan";
+             d:telponWisata             "-".
+
+p:P12        d:namaWisata	            "Curug Ciangin" ;
+             d:jenisWisata       	    "Wisata Alam" ;
+             d:alamatWisata             "Kp. Neglasari, RW.04, Cibeusi, Kec. Ciater, Kabupaten Subang, Jawa Barat 41281" ;
+             d:fasilitasWisata          "Pemandian camping air terjun";
+             d:telponWisata            "0812-2433-5550".
+
+p:P13        d:namaWisata	            "Curug Cina" ;
+             d:jenisWisata       	    "Air terjun dan Wisata Alam " ;
+             d:alamatWisata             "Kp sinapeul RT 22/02, Curug Agung, Sagalaherang, Kabupaten Subang, Jawa Barat 41282" ;
+             d:fasilitasWisata          "Pemandian air terjun ";
+             d:telponWisata             "0823-1728-6422".
+
+p:P14        d:namaWisata	            "Lembah Gunung Kujang Subang" ;
+             d:jenisWisata       	    "Kolam pancing" ;
+             d:alamatWisata             "JL. Raya Gunung Tua, No. 11 KM. 8, Gunung Tua, Kec. Subang, Kabupaten Subang, Jawa Barat 41286" ;
+             d:fasilitasWisata          "Kolam pancing dan tempat makan ";
+             d:telponWisata             "(0260) 7422771".
+
+p:P15        d:namaWisata	            "Curug Cibareubeuy" ;
+             d:jenisWisata       	    "Wisata Alam" ;
+             d:alamatWisata             "Nagrak, Kec. Ciater, Kabupaten Subang, Jawa Barat 41281" ;
+             d:fasilitasWisata          "Spot foto di air terjun dan ayunan tinggi";
+             d:telponWisata             "-".
+
+p:P16        d:namaWisata	            "Pantai Cirewang" ;
+             d:jenisWisata       	    "Pantai dan Wisata Alam" ;
+             d:alamatWisata             "Pangarengan, Legonkulon, Pangarengan, Pamanukan, Kabupaten Subang, Jawa Barat" ;
+             d:fasilitasWisata          "Area Parkir,Toilet,Mushola,Gazebo,Spot Foto,Warung Makan";
+             d:telponWisata             "-".
+
+p:P17        d:namaWisata	            "Wisma Karya Subang" ;
+             d:jenisWisata       	    "Wisata Sejarah" ;
+             d:alamatWisata             "Jalan Ade Irma Suryani Nasution No. 2 Karanganyar, Cigadung, Kec. Subang, Kabupaten Subang, Jawa Barat 41211" ;
+             d:fasilitasWisata          "Sejarah sejarah peninggalan,Area Parkir,Toilet,Mushola,Gazebo,Spot Foto,Warung Makan ";
+             d:telponWisata             "(0260) 411014".
+
+p:P18        d:namaWisata	            "Farmhouse Lembang" ;
+             d:jenisWisata       	    "Wisata Rekreasi" ;
+             d:alamatWisata             "Jl. Raya Lembang No.108, Gudangkahuripan, Lembang, Kabupaten Bandung Barat, Jawa Barat 40391" ;
+             d:fasilitasWisata          "Spot foto, makanan dan cemilan";
+             d:telponWisata             "-".
+
+p:P19        d:namaWisata	            "Kebun Teh Sukawana" ;
+             d:jenisWisata       	    "Wisata Alam" ;
+             d:alamatWisata             "Kertawangi, Kec. Cisarua, Kabupaten Bandung Barat, Jawa Barat 40551" ;
+             d:fasilitasWisata          "Tempat foto dan alam yang asri";
+             d:telponWisata             "-".
+
+p:P20        d:namaWisata	            "Pinisi Resto Dan Glamping Lakeside Ciwidey" ;
+             d:jenisWisata       	    "Restoran" ;
+             d:alamatWisata             "Patengan, Kec. Rancabali, Bandung, Jawa Barat 40973" ;
+             d:fasilitasWisata          "Area Parkir,Toilet,Mushola,Gazebo,Wahana permainan ,Spot Foto,Warung Makan, di danau jembatan kuliner";
+             d:telponWisata             "0812-2155-4496".
+
+p:P21        d:namaWisata	            "Curug Cinulang Cicalengka" ;
+             d:jenisWisata       	    "Air terjun Wisata Alam" ;
+             d:alamatWisata             "Cicalengka Sindangwangi, Sindulang, Cimanggung, Sumedang, Jawa Barat, Indonesia, 45364." ;
+             d:fasilitasWisata          "Spot foto curug";
+             d:telponWisata             " ".
+
+p:P22        d:namaWisata	            "Curug Tilu Leuwi Opat Lembang" ;
+             d:jenisWisata       	    "Wisata Alam" ;
+             d:alamatWisata             " Jl. Kp. Ciwangun Indah Camp, Cihanjuang Rahayu, Kec. Parongpong, Kabupaten Bandung Barat, Jawa Barat 40559" ;
+             d:fasilitasWisata          "Area Parkir,Toilet,Mushola,Gazebo,Wahana permainan ,Spot Foto,Warung Makan";
+             d:telponWisata             "-".
+
+p:P23        d:namaWisata	            "Kawah Putih Ciwidey" ;
+             d:jenisWisata       	    "Wisata Alam" ;
+             d:alamatWisata             "Jalan Raya Ciwidey Patenggang Km 11 Lebakmuncang Ciwidey, Sugihmukti, Pasirjambu, Bandung, Jawa Barat , Indonesia, 40972. Kawah Putih merupakan kawah hasil dari letusan Gunung Patuha, Ciwidey, Bandung" ;
+             d:fasilitasWisata          "Kawah dan spot foto";
+             d:telponWisata              " ".
+
+p:P24        d:namaWisata	            "Curug Cimahi" ;
+             d:jenisWisata       	    "Wisata Alam" ;
+             d:alamatWisata             "Cisarua, Bandung Barat, Jawa Barat, Indonesia" ;
+             d:fasilitasWisata          "spot foto dan pemandangan air terjun dan alam";
+             d:telponWisata             "-".
+
+p:P25        d:namaWisata	            "Taman Hutan Raya Ir. H. Djuanda" ;
+             d:jenisWisata       	    "Wisata Alam" ;
+             d:alamatWisata             "Kompleks Tahura, Jl. Ir. H. Juanda No.99, Ciburial, Kec. Cimenyan, Bandung, Jawa Barat 40198" ;
+             d:fasilitasWisata          "Spot foto mushola tempat makan,guha belanda dan jepang ";
+             d:telponWisata             "(022) 2507891".
+
+p:P26        d:namaWisata	            "Maribaya Bandung" ;
+             d:jenisWisata       	    "Wisata Alam" ;
+             d:alamatWisata             "Jl. Maribaya No.105/212, Langensari, Lembang, Kabupaten Bandung Barat, Jawa Barat 40391" ;
+             d:fasilitasWisata          "Area Parkir,Toilet,Mushola,Gazebo,Wahana permainan ,Spot Foto, restouran spa santai dan area interaksi bersama satwa";
+             d:telponWisata             " ".
+
+p:P27        d:namaWisata	            "Saung Angklung Udjo" ;
+             d:jenisWisata       	    "Wisata Pendidikan" ;
+             d:alamatWisata             "Jl. Padasuka No.118, Pasirlayung, Kec. Cibeunying Kidul, Kota Bandung, Jawa Barat 40192" ;
+             d:fasilitasWisata          "Kesenian alat musik. Area Parkir,Toilet,Mushola,Gazebo,Wahana permainan ,Spot Foto,Warung Makan";
+             d:telponWisata             "0818-0222-1522".
+
+p:P28        d:namaWisata	            "Kawah Putih Cibodas, Garut" ;
+             d:jenisWisata       	    "Wisata Alam" ;
+             d:alamatWisata             "Sugihmukti, Kec. Pasirjambu, Bandung, Jawa Barat" ;
+             d:fasilitasWisata          "Kawah putih dan alam yang luas, Area Parkir,Toilet,Mushola,Gazebo,Wahana permainan ,Spot Foto,Warung Makan";
+             d:telponWisata            "-".
+
+p:P29        d:namaWisata	            "Green Canyon, Bandung" ;
+             d:jenisWisata       	    "Wisata Alam" ;
+             d:alamatWisata             "Cianjur Saguling, Saguling, Kec. Batujajar, Kabupaten Bandung Barat, Jawa Barat 40561" ;
+             d:fasilitasWisata          "Tebing dan pantai laut, Area Parkir,Toilet,Mushola,Gazebo,Spot Foto,Warung Makan";
+             d:telponWisata             "-".
+
+
+p:P30        d:namaWisata	            "Pantai Ujung Genteng" ;
+             d:jenisWisata       	    "Wisata Alam" ;
+             d:alamatWisata             "Ujung Genteng, Ciracap, Sukabumi, Jawa Barat, Indonesia, 43176." ;
+             d:fasilitasWisata          "Area Parkir,Toilet,Mushola,Gazebo,Wahana permainan ,Spot Foto,Warung Makan,pantai dan pasir putih dan terdapat penangkaran penyu";
+             d:telponWisata             "-".
+
+p:P31        d:namaWisata	            "Telaga Remis Kuningan" ;
+             d:jenisWisata       	    "Wisata Alam" ;
+             d:alamatWisata             "Kaduela, Pasawahan, Kabupaten Kuningan, Jawa Barat 45559" ;
+             d:fasilitasWisata          "Area Parkir,Toilet,Mushola,Gazebo,Wahana permainan ,Spot Foto,Warung Makan , pemandangan pegunungan danau";
+             d:telponWisata             "(0232) 8881389".
+
+p:P32        d:namaWisata	            "Taman Air Mancur Sri Baduga" ;
+             d:jenisWisata       	    "Air mancur" ;
+             d:alamatWisata             "Jl. K.K Singawinata No.73, Nagri Kidul, Kec. Purwakarta, Kabupaten Purwakarta, Jawa Barat" ;
+             d:fasilitasWisata          "Area Parkir,Toilet,Mushola,Gazebo,Wahana permainan ,Spot Foto,Warung Makan, air mancur dan permainan lampu yang sangat inda pada saat malam hari";
+             d:telponWisata             "-".
+
+p:P33        d:namaWisata	            "Kampung Naga Tasikmalaya" ;
+             d:jenisWisata       	    "Wisata Alam " ;
+             d:alamatWisata             "Neglasari, Salawu, Tasikmalaya, Jawa Barat, Indonesia, 46471." ;
+             d:fasilitasWisata          "Area Parkir,Toilet,Mushola,Gazebo,Wahana permainan ,Spot Foto,Warung Makan, pemandangan alam dan arsitek yang menambah keasrian pedesaan";
+             d:telponWisata             "-".
+
+p:P34        d:namaWisata	            "Taman Bunga Nusantara" ;
+             d:jenisWisata       	    "Wisata Alam " ;
+             d:alamatWisata             "Jalan Mariwati KM 7, desa Kawungluwuk, kecamatan Sukaresmi, Cianjur." ;
+             d:fasilitasWisata          "Spot foto dan berbagai macam jenis bunga ";
+             d:telponWisata            "-".
+
+p:P35        d:namaWisata	            "Curug Cikaso" ;
+             d:jenisWisata       	    "Wisata Alam" ;
+             d:alamatWisata             "Desa Ciniti, Cibitung, Sukabumi Regency, Jawa Barat 43172" ;
+             d:fasilitasWisata          "Area Parkir,Toilet,Mushola,Gazebo,Wahana permainan ,Spot Foto,Warung Makan,spot foto, perahu , dan tempat campe";
+             d:telponWisata             "-".
+
+p:P36        d:namaWisata	            "Jeep Station Indonesia Resort Bogor" ;
+             d:jenisWisata       	    "Wisata Alam dan resort" ;
+             d:alamatWisata             "Jl. Cikopo Sel. No.KM, RW.5, Sukagalih, Kec. Megamendung, Bogor, Jawa Barat 16770" ;
+             d:fasilitasWisata          "Pemandangan, off road jeep, restoran penginapan,Area Parkir,Toilet,Mushola,Gazebo,Wahana permainan ,Spot Foto";
+             d:telponWisata             "(0251) 8296098".
+
+p:P37        d:namaWisata	            "Edensor Hills Villa, Resort & Cafe" ;
+             d:jenisWisata       	    "Cafe Villa" ;
+             d:alamatWisata             "Bojong Koneng, Kec. Babakan Madang, Bogor, Jawa Barat 16810" ;
+             d:fasilitasWisata          "Area Parkir,Toilet,Mushola,Gazebo,Wahana permainan ,Spot Foto, cafe,vila ala eropa,";
+             d:telponWisata             "0811-1479-966".
+
+
+p:P38        d:namaWisata	            "Hotel nuansa Bali di Bogo" ;
+             d:jenisWisata       	    "Penginapan resort" ;
+             d:alamatWisata             "Kampung Babakan RT 04 RW 04 desa Ciherang Pondok Kecamatan Caringin., Ciherang Pd., Kec. Caringin, Bogor, Jawa Barat 16680" ;
+             d:fasilitasWisata          "Area Parkir,Toilet,Mushola,Gazebo,Wahana permainan ,Spot Foto, penginepan hotel dan cafe";
+             d:telponWisata            "(0251) 8290468".
+
+
+p:P39        d:namaWisata	            "Taman Safari Indonesia" ;
+             d:jenisWisata       	    "Wisata Rekreasi" ;
+             d:alamatWisata             "Jl. Kapten Harun Kabir No.724, Cibeureum, Kec. Cisarua, Bogor, Jawa Barat 16750" ;
+             d:fasilitasWisata          "Area Parkir,Toilet,Mushola,Gazebo,Wahana permainan ,Spot Foto,Warung Makan, melihat jenis jenis hewan dan berinteraksi langsung";
+             d:telponWisata             "-".
+
+
+p:P40        d:namaWisata	            "Kebun Raya Bogor" ;
+             d:jenisWisata       	    "Wisata Alam" ;
+             d:alamatWisata             "Jl. Ir. H. Juanda No.13, Paledang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16122" ;
+             d:fasilitasWisata          "Area Parkir,Toilet,Mushola,Gazebo,Wahana permainan ,Spot Foto,Warung Makan";
+             d:telponWisata             "(0251) 8311362".
+
+
+p:P41        d:namaWisata	           "Batu Lawang" ;
+             d:jenisWisata             "Wisata Alam" ;
+             d:alamatWisata            "Jl.Cupang, Kec. Gempol, Kota Cirebon, Jawa Barat." ;
+             d:fasilitasWisata         "Area Parkir,Toilet,Mushola,Gazebo,Wahana permainan + pemandu,Spot Foto,Warung Makan,Camping Ground Wisata Batu Lawang";
+             d:telponWisata            "085315085555".
+
+p:P42       d:namaWisata	            "Situ leutik" ;
+             d:jenisWisata       	    "wisata alam" ;
+             d:alamatWisata             "Cibeureum banjar, kota banjar jawa barat" ;
+             d:fasilitasWisata          "Jogging track, taman, gazebo dan ornamen-ornamen, outbond";
+             d:telponWisata             "085223141847".
+
+p:P43        d:namaWisata	            "Cirebon Waterland" ;
+             d:jenisWisata       	    "Wisata Rekreasi" ;
+             d:alamatWisata             "jln. Yos sudarso no 1 lemahwungkuk, kec lemahwungkuk, kota cirebon jawa barat" ;
+             d:fasilitasWisata          "kolam renang, wahana mini coaster, sewa ATV, area bermain anak.";
+             d:telponWisata             "(0231) 8293194".
+
+p:P44        d:namaWisata	            "Outbound Siwalk" ;
+             d:jenisWisata       	    "Outbond" ;
+             d:alamatWisata             "Raya Cirebon Desa Palimanan Barat Kecamatan Palimanan Cirebon." ;
+             d:fasilitasWisata          "Flying fox,memancing,ATV speed boat";
+             d:telponWisata             "0812 6222 7300".
+
+p:P45        d:namaWisata	            "Bukit Gronggong" ;
+             d:jenisWisata       	    "Wisata Alam" ;
+             d:alamatWisata             "Patapan, Beber, Cirebon, Jawa Barat." ;
+             d:fasilitasWisata          "Area Parkir,Toilet,Mushola,Gazebo,Wahana permainan ,Spot Foto,Warung Makan";
+             d:telponWisata             "-".
+
+
+p:P46        d:namaWisata	            "Pantai Kejawanan" ;
+             d:jenisWisata       	    "Wisata Alam" ;
+             d:alamatWisata             "Pegambiran, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat." ;
+             d:fasilitasWisata          "Perahu motor , Area Parkir,Toilet,Mushola,Gazebo,Wahana permainan ,Spot Foto,Warung Makan";
+             d:telponWisata             "-".
+
+p:P47        d:namaWisata	            "Telaga Nilam" ;
+             d:jenisWisata       	    "Wisata alam" ;
+             d:alamatWisata             "Desa Kaduela, Kecamatan Pasawahan, Jawa Barat." ;
+             d:fasilitasWisata          "Fasilitas gazebo untuk tempat beristirahat" ;
+             d:telponWisata             "-".
+
+p:P48        d:namaWisata	            "Kolam Renang Hegar" ;
+             d:jenisWisata       	    "Wisata Rekreasi" ;
+             d:alamatWisata             "Cikalahang, Kec. Dukupuntang, Kota Cirebon, Jawa Barat." ;
+             d:fasilitasWisata          "Mushola, kolam renang dewasa dan anak, gazebo" ;
+             d:telponWisata             "085321107830".
+
+p:P49        d:namaWisata	            "The Jungle Adventure Waterpark" ;
+             d:jenisWisata       	    "Wisata Rekreasi" ;
+             d:alamatWisata             "Jalan Bogor Nirwana Boulevard, Perumahan Bogor Nirwana Residence, Mulyaharja, Bogor Selatan, RT.05/RW.12, Mulyaharja, Kec. Bogor Sel., Kota Bogor, Jawa Barat 16132" ;
+             d:fasilitasWisata          "Water Boom";
+             d:telponWisata             " (0251) 8212666".
+
+p:P50        d:namaWisata	            "De Voyage" ;
+             d:jenisWisata       	    "Wisata Rekreasi" ;
+             d:alamatWisata             "Jl. Raya Boulevard CBD, Jl. Bogor Nirwana Residence, RT.05/RW.12, Mulyaharja, Kec. Bogor Sel., Kota Bogor, Jawa Barat 16135" ;
+             d:fasilitasWisata          "Area Parkir,Toilet,Mushola,Gazebo,Wahana permainan ,Spot Foto";
+             d:telponWisata             "087820193911".
+
+
